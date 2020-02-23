@@ -1,0 +1,5 @@
+name: kbandit
+dependencies:
+- python=3
+- pylint
+- numpy
